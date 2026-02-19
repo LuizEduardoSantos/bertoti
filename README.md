@@ -1,0 +1,12 @@
+Atividade de Engenharia de Software
+PRIMEIRO TRECHO: 
+O primeiro trecho do livro "Software Engineering at Google", traz uma reflexão sobre o título de engenheiro de software e sobre outras profissões ligadas à computação que utilizam essa denominação. Além disso, analisa o papel da engenharia em diferentes áreas, como engenharia mecânica, química e aeronáutica, todas baseadas em conhecimentos teóricos e regras rígidas para a construção de algo concreto na sociedade. Já a engenharia de software é mais abstrata e menos rígida, uma vez que um erro em um código, em geral, não gera impactos graves que coloquem em risco a vida das pessoas.
+SEGUNDO TRECHO: 
+O segundo trecho do livro "Software Engineering at Google" busca estabelecer o papel da engenharia de software dentro de uma empresa. Seu papel seria manter o código sustentável e vivo a partir de boas práticas e normas rígidas. Acredito que, no dia a dia, existam “vícios” dentro da programação que acabam afetando o código e as boas práticas, limitando sua estrutura e sobrevivência. Assim como os livros contam com normas da ABNT, por exemplo, seria interessante que as empresas, por meio da engenharia de software, estabelecessem padrões, normas e condições para que o código seja duradouro, perpetuado e transformado. 
+OS TRADE-OFFS:
+1. Velocidade de entrega vs. Qualidade do código
+Entregar rapidamente pode ajudar a cumprir prazos e lançar um produto no mercado, mas pode gerar código mal estruturado e dívida técnica. Priorizar qualidade pode atrasar a entrega inicial, mas reduz problemas futuros.
+2. Performance vs. Legibilidade
+Um código altamente otimizado pode executar mais rápido, porém pode se tornar difícil de entender e manter. Já um código mais simples é mais fácil de manter, mas pode não ser o mais eficiente em desempenho.
+3. Flexibilidade vs. Simplicidade
+Criar uma arquitetura muito flexível permite adaptações futuras, mas aumenta a complexidade inicial. Um sistema simples é mais fácil de implementar no começo, porém pode limitar expansões futuras.
