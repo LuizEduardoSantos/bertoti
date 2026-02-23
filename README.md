@@ -15,8 +15,11 @@ Um código altamente otimizado pode executar mais rápido, porém pode se tornar
 Criar uma arquitetura muito flexível permite adaptações futuras, mas aumenta a complexidade inicial. Um sistema simples é mais fácil de implementar no começo, porém pode limitar expansões futuras.
 
 **ATIVIDADE ENGENHARIA DE SOFTWARE - 20/02/2026**
+
 **Atividade 3 - Requisitos não funcionais:**
+
 **Atividade 4 - Trade-offs (negociação entre requisitos não funcionais)** 
+
 **ATIVIDADE ENGENHARIA DE SOFTWARE - 23/02/2026**
 É possível testar tudo?
 int blech (int g)
