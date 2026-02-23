@@ -16,3 +16,17 @@ Criar uma arquitetura muito flexível permite adaptações futuras, mas aumenta 
 
 **ATIVIDADE ENGENHARIA DE SOFTWARE - 20/02/2026**
 **Atividade 3 - Requisitos não funcionais:**
+**Atividade 4 - Trade-offs (negociação entre requisitos não funcionais)** 
+**ATIVIDADE ENGENHARIA DE SOFTWARE - 23/02/2026**
+É possível testar tudo?
+int blech (int g)
+{j = j-1, //deveria ser j=j+1
+j=j/30000
+return J
+}
+-32768 até +32767
+- Quantos entradas mostram o erro? 
+R: 4
+- Quais são?
+R: 30000, -30000, 29999, -29999
+
