@@ -36,3 +36,6 @@ R: 4
 - Quais são?
 R: 30000, -30000, 29999, -29999
 
+**Atividade 6: criar o seu exemplo da biblioteca (petshop, loja, etc) com testes automatizados**
+
+
